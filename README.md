@@ -1,4 +1,6 @@
 # Fake-News-Detection-Whatsapp-Bot
+If you like my work you can [buy me a coffee here](buymeacoffee.com/ayushbasral)
+
 “Fake news” is a term that has come to mean different things to different people. At its core, we are defining
 “fake news” as those news stories that are false: the story itself is fabricated, with no verifiable facts, sources
 or quotes. Sometimes these stories may be propaganda that is intentionally designed to mislead the reader, or
@@ -53,4 +55,6 @@ Running the app:
 
 And we’re good to go! Let’s test our application on WhatsApp! We can send some news headlines or facts to this sandbox and get predictions in return if everything works as expected.
 
-Read further on our medium blog : https://ayushbasral.medium.com/fake-news-detection-whatsapp-bot-16eec216f521
+Read further on our [medium blog](https://ayushbasral.medium.com/fake-news-detection-whatsapp-bot-16eec216f521)
+
+If you like my work you can [buy me a coffee here](buymeacoffee.com/ayushbasral)
