@@ -52,3 +52,5 @@ Running the app:
 
 
 And we’re good to go! Let’s test our application on WhatsApp! We can send some news headlines or facts to this sandbox and get predictions in return if everything works as expected.
+
+Read further on our medium blog : https://ayushbasral.medium.com/fake-news-detection-whatsapp-bot-16eec216f521
