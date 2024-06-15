@@ -52,6 +52,10 @@ Running the app:
 3. Grab that ngrok URL to configure twilio whatsapp sandbox.
 
 
+
+Get More Details Here - https://medium.com/p/16eec216f521#7925-b99cd2080781
+
+
 And we’re good to go! Let’s test our application on WhatsApp! We can send some news headlines or facts to this sandbox and get predictions in return if everything works as expected.
 
 
